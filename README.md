@@ -17,7 +17,7 @@ This is the primary control center where you define your starting color.
 
 -   **Interactive Color Wheel:** Visually select a color by dragging the handle to adjust **hue** and **saturation**. The wheel is fully responsive and adapts its size to fit any screen.
 -   **Lightness Slider:** Control the **lightness** or brightness of your selected color, from pure black to pure white.
--   **Base Color Information:** Instantly view and copy the precise values of your chosen base color in **HEX**, **RGB**, and **HSL** formats.
+-   **Base Color Information:** Instantly view and click to copy the precise values of your chosen base color in **HEX**, **RGB**, and **HSL** formats.
 
 ### 2. Color Combination (Harmony) Panel
 Apply different color theory rules to your base color to generate a palette.
